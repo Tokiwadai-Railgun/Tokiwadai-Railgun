@@ -2,7 +2,7 @@
   <img src="./images/ayaka.png" width="20%" align="right">
   <img align="top" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B74FBD&center=true&multiline=true&random=false&width=435&lines=Hello%2C+I'm+Fuyuki+;Dev%2C+Anime+and+Genshin+enthusiast" alt="Typing SVG" />
   <br><br>
-  <pre align="left">
+  <pre>
     🥀Fuyuki
     🥀18
     🥀Apprentice
