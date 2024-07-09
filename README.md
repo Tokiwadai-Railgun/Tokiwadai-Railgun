@@ -22,10 +22,15 @@
 
 ### Languages & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,svelte,python,lua,rust,kotlin,java,md,mysql,bash">
+  <img src="https://skillicons.dev/icons?i=js,ts,svelte,python,lua,rust,kotlin,java,md">
 </div>
 
 ### Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vim,neovim,webstorm,androidstudio,vscode,robloxstudio,git,github">
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,mysql">
+</div>
+
+### IDE
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vim,neovim,webstorm,androidstudio,vscode,robloxstudio">
 </div>
