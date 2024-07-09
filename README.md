@@ -26,3 +26,13 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vim,neovim,webstorm,androidstudio,vscode,robloxstudio,git,github">
 </div>
+
+
+```js
+const test {
+  elment: hehe
+  element2: te
+  elemaent: nandayo
+}
+```
+<img src="inkdrop://file:aVd0PqOu-" width="20%" align="right">
