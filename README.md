@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./images/ayaka.png" width="25%" align="right">
   <img align="top" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B74FBD&center=true&multiline=true&random=false&width=435&lines=Hello%2C+I'm+Fuyuki+;Dev%2C+Anime+and+Genshin+enthusiast" alt="Typing SVG" />
-  <br><br>
+  <br><br><br><br>
   <pre>
     🥀Fuyuki
     🥀18
@@ -9,9 +9,7 @@
     🥀France, Fontainebleau
     🥀Manga/Anime, Videogames, Dev
   </pre>
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-  <br><br><br>
+  <br><br><br><br><br>
 
 </div>
 
