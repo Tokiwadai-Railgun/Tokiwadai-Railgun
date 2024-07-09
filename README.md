@@ -18,7 +18,7 @@
 
 
 ## Skills
-<img src="./images/kobayashi.gif" width="25%" align="right">
+<img src="./images/sayu.png" width="25%" align="right">
 
 ### Languages & Libraries
 <div align="center">
