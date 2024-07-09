@@ -16,6 +16,8 @@
 ### Languages & Libraries
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,rust,svelte, )](https://skillicons.dev)
     <img src="./images/kobayashi.gif" align="right">
+    <br><br>
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 
 ### Tools
