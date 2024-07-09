@@ -18,7 +18,7 @@
 
 
 ## Skills
-<img src="./images/sayu.png" width="25%" align="right">
+<img src="./images/sayu.png" width="25%" align="left">
 
 ### Languages & Libraries
 <div align="center">
