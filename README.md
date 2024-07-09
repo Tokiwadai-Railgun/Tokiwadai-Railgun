@@ -16,7 +16,10 @@
 
 </div>
 
+
 ## Skills
+<img src="./images/kobayashi.gif" width="25%" align="right">
+
 ### Languages & Libraries
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,ts,svelte,python,lua,rust,kotlin,java,md,mysql,bash">
