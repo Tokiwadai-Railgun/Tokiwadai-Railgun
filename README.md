@@ -18,4 +18,11 @@
 
 ## Skills
 ### Languages & Libraries
-<img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,rust,svelte">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,svelte,python,lua,rust,kotlin,java,md,mysql,bash">
+</div>
+
+### Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vim,neovim,webstorm,androidstudio,vscode,robloxstudio,git,github">
+</div>
