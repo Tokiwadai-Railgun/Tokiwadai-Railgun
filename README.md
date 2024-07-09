@@ -26,13 +26,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vim,neovim,webstorm,androidstudio,vscode,robloxstudio,git,github">
 </div>
-
-<img src="./images/ayaka.png" width="20%" align="right">
-
-```js
-const test {
-  elment: hehe
-  element2: te
-  elemaent: nandayo
-}
-```
