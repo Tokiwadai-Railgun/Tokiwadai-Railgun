@@ -19,7 +19,7 @@
 ## Skills
 ### Languages & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,svelte,python,lua,rust,kotlin,java,md,mysql,bash">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,svelte,python,lua,rust,kotlin,java,md,mysql,bash">
 </div>
 
 ### Tools
