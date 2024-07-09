@@ -3,10 +3,11 @@
   <img align="top" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B74FBD&center=true&multiline=true&random=false&width=435&lines=Hello%2C+I'm+Fuyuki+;Dev%2C+Anime+and+Genshin+enthusiast" alt="Typing SVG" />
   <br><br>
   <pre>
-    🥀Fuyuki
-    🥀18
-    🥀Apprentice
-    🥀France, Fontainebleau
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
   </pre>
 </div>
 
