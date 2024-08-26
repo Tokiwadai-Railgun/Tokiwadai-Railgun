@@ -10,7 +10,7 @@
     🥀18
     🥀Apprentice
     🥀France, Fontainebleau
-    🥀Manga/Anime, Videogames, Dev
+    🥀Like : Manga/Anime, Videogames, Dev
     🥀I use vim btw
   </pre>
   <br><br><br><br><br>
