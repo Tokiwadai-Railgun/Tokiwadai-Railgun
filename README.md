@@ -28,10 +28,15 @@
 
 ### Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,mysql">
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,mysql,postgresql">
 </div>
 
 ### IDE
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vim,neovim,webstorm,androidstudio,vscode,robloxstudio">
+</div>
+
+### OS
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,windows,apple">
 </div>
